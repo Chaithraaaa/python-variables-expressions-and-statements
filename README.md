@@ -1,2 +1,2 @@
-# python-variables-expressions-and-statements
+# Python-Variables-Expressions-and-Statements
 Machine Learning assignment1
